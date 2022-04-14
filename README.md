@@ -2,4 +2,5 @@
 
 Estudante de Química 🧪 e Ciencia da Computação 💻
 
-- 🐍 Atualmente estudando Python
+- Atualmente estudando:
+-   :snake: Python
