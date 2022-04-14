@@ -3,4 +3,6 @@
 Estudante de Química 🧪 e Ciencia da Computação 💻
 
 - Atualmente estudando:
--   :snake: Python
+    :snake: Python;
+    :droplet: Elixir;
+    
