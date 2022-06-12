@@ -16,8 +16,6 @@ Graduanda em Química e Ciencia da Computação 💻🧪
 <h3 align="left">Redes Sociais:</h3>
     
    <div> <a href="https://www.linkedin.com/in/carollyny/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
-    
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
     
  
