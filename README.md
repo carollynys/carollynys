@@ -1,7 +1,7 @@
-<h1 align="left">Olá, me chamo Carol ☺️</h1>
+<h1 align="left">Carol</h1>
 
 Bacharel em Ciência e Tecnologia. 
-Graduanda em Química e Ciencia da Computação 💻🧪
+Graduanda em Química 🧪
 
 <h3 align="left">Atualmente estudando:</h3>
 
