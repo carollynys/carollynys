@@ -1,4 +1,4 @@
-<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFkYTdiZW1xMm9xczF0YzBwOGR6eTBsMTAxOWprN29xa2NibW9ndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVPR3NSqLjVQFEPmP8/giphy.gif"/>
+![image](https://github.com/carollynys/carollynys/assets/98826420/9648eb4d-ce6f-4f8a-acfa-668d4439b4b1)<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFkYTdiZW1xMm9xczF0YzBwOGR6eTBsMTAxOWprN29xa2NibW9ndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVPR3NSqLjVQFEPmP8/giphy.gif"/>
 
 
 # Hi, i'm Carol!
@@ -9,11 +9,20 @@
 🧪 During my academic career, I had the opportunity to carry out a project on the synthesis of propofol from expired paracetamol tablets, which resulted in the publication of an article in the journal ACS Sustainable Chemistry & Engineering.
 
 ---
-## 🚀 My Skills
+# 🚀 My Skills
 
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/></code>
+<div><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/></div>
+
+## 📊 Data Visualization
+<p align="center">
+  <div>
+    <img height="39" src='https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png' alt="matplotlib" />
+    <img height="40" src='https://seaborn.pydata.org/_images/logo-wide-lightbg.svg' alt="seaborn"/>
+    <img height="40" src='https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png' alt="plotly"/>
+  </div>
+</p>
 
 
 ---
