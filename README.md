@@ -1,4 +1,4 @@
-![image](https://github.com/carollynys/carollynys/assets/98826420/9648eb4d-ce6f-4f8a-acfa-668d4439b4b1)<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFkYTdiZW1xMm9xczF0YzBwOGR6eTBsMTAxOWprN29xa2NibW9ndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVPR3NSqLjVQFEPmP8/giphy.gif"/>
+<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFkYTdiZW1xMm9xczF0YzBwOGR6eTBsMTAxOWprN29xa2NibW9ndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVPR3NSqLjVQFEPmP8/giphy.gif"/>
 
 
 # Hi, i'm Carol!
